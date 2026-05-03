@@ -43,7 +43,6 @@ recetario/
 Cada carpeta de modelo contiene:
 - `stan/` — archivo(s) `.stan`
 - `R/` — script(s) para compilar, estimar y extraer resultados
-- `output/` — resultados en `.csv` o `.parquet`
 
 ---
 

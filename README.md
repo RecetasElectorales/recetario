@@ -18,8 +18,6 @@ Sitio web: [recetas-electorales.com](https://www.recetas-electorales.com)
 | 2026 | `cazuela` | Regresión bayesiana 2026 | Actualización con más encuestas |
 | 2026 | `gaussiano` | Proceso gaussiano multivariado | Tendencias simultáneas con prior LKJ sobre correlaciones |
 
-El salto más importante es de **Simple/Mixto → Ajiaco**: pasar de modelar cada candidato por separado a un modelo conjunto que preserva la restricción de que los votos suman 100%.
-
 ---
 
 ## Estructura
